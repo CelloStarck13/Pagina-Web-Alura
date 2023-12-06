@@ -7,21 +7,13 @@ color: rgb(236, 190, 190);
     padding: 24px 0;
     }
 
-    .cabecalho-lista-item {
+    .cabecalho-lista-item{
         display: inline-block;
         margin: 0 16px;
         font-size: 24px;
         }
-        /* Define margem e preenchimento como zero para todos os elementos */
-* {
-    margin: 0;
-    padding: 0;
-    }
-    .cabecalho {
-    background-color: #51025a; /* Define a cor de fundo */
-    color: white; /* Define a cor do texto como branco */
-    display: flex; /* Usa um layout flexível */
-    justify-content: space-around; /* Distribui o espaço ao redor dos elementos filhos */
-    align-items: center; /* Alinha os elementos filhos */
-    padding: 24px 0; /* Preenchimento superior e inferior como 24px e 0 nas laterais */
-    }
+
+        .cabecalho-imagem{
+            width: 20%;  
+        }
+        
