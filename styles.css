@@ -28,11 +28,4 @@ color: white;
     align-items: center; /* Alinha os elementos filhos */
     padding: 24px 0; /* Preenchimento superior e inferior como 24px e 0 nas laterais */
     }
-    .cabecalho-imagem {
-    width: 20%; /* Define a largura como 20% do elemento pai */
-    }
-    .cabecalho-lista-item {
-    display: inline-block; /* Exibe os elementos em linha, alinha horizontalmente */
-    margin: 0 16px; /* Define margem nas laterais de 16px e nenhum preenchimento */
-    font-size: 24px; /* Define o tamanho da fonte como 24px */
-    }
+   
