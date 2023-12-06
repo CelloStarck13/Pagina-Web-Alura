@@ -1,6 +1,6 @@
 .cabecalho {
-    background-color: rgba(13, 219, 106, 0.87);
-color: rgb(236, 190, 190);
+    background-color: rgba(8, 146, 70, 0.87);
+color: rgb(19, 1, 1);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -16,4 +16,3 @@ color: rgb(236, 190, 190);
         .cabecalho-imagem{
             width: 20%;  
         }
-        
